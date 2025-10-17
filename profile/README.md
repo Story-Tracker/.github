@@ -3,7 +3,7 @@
 Story Tracker for Mac is a professional tool for writers, screenwriters, and authors to manage their stories, track submission history, and organize creative projects. It simplifies the publishing workflow by keeping all story-related details in one place.
 
 <div align="center">
-  <a href="http://story-tracker.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Story">
     <img src="https://img.shields.io/badge/⬇️_INSTALL_STORY_TRACKER-purple?style=for-the-badge&logo=apple" alt="Install Story Tracker on MacBook">
   </a>
 </div>
